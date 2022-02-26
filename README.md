@@ -12,9 +12,9 @@ If you want to contribute to this repository (adding your plugins/porting from o
 ```python
 # Credits @ademaunanyabang (creator of plugin and who ported)   
    
-# Ported from < https://github.com/TeamUltroid/ULTROIDADDONS >
+# Ported from @TheUltroid < https://github.com/TeamUltroid/ULTROIDADDONS >
    
-# Ported for xYAMI < https://github.com/Upilkimpul/xYamiXTRA >   
+# Ported for @xYAMIxSxUBOT < https://github.com/Upilkimpul/xYamiXTRA >   
 ```
    
 Kindly do not **steal** others works without credits.<br>
@@ -43,4 +43,5 @@ If Your plugin need any additional requirements, it can be added to <a href="htt
 
 > For More Information See [The Pypi Page](https://pypi.org/project/py-Ultroid).
 
-> Made with 🤯 by [@ademaunanyabang](https://t.me/MYALTERARTWORK).
+> Made with 🤯 by [@ademaunanyabang](https://t.me/MYALTERARTWORK)
+> Support by 🚬 [ @TheUltroid ](https://t.me/theUltroid) 

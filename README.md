@@ -1,8 +1,8 @@
-# <p align="center"><a href="https://github.com/Teamultroid/xYamiEXTRA"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamUltroid&show_icons=true&theme=dracula&hide_border=true&repo=xYamiExtra"></a></p>
+# <p align="center"><a href="https://github.com/Teamultroid/Ultroid"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamUltroid&show_icons=true&theme=dracula&hide_border=true&repo=ultroid"></a></p>
 <p align="center">
 
 # UltroidAddons
-Plugins repository for [@TheUltroid](https://github.com/TeamUltroid/xYAMIxSxUBOT).
+Plugins repository for [@TheUltroid](https://github.com/TeamUltroid/Ultroid).
 
 
 # Contributing

@@ -2,7 +2,7 @@
 <p align="center">
 
 # UltroidAddons
-Plugins repository for [@TheUltroid](https://github.com/TeamUltroid/Ultroid).
+Plugins repository for [@xYAMIxSxUBOT](https://github.com/TeamUltroid/Ultroid).
 
 
 # Contributing
@@ -10,11 +10,11 @@ If you want to contribute to this repository (adding your plugins/porting from o
 ⚠️ First check whether the stuff you push works. Also, if the pull request doesn't follow the below format, it will be closed without prior notice.
 
 ```python
-# Credits @MYALTAW (creator of plugin and who ported)   
+# Credits @ademaunanyabang (creator of plugin and who ported)   
    
-# Ported from (if ported else skip)   
+# Ported from < https://github.com/TeamUltroid/ULTROIDADDONS >
    
-# Ported for YAMI < https://github.com/TeamUltroid/xYAMIsUBOTx >   
+# Ported for xYAMI < https://github.com/Upilkimpul/xYamiXTRA >   
 ```
    
 Kindly do not **steal** others works without credits.<br>
@@ -24,7 +24,7 @@ Kindly do not **steal** others works without credits.<br>
 
 <kbd>This Example Works Everywhere. (e.g. Groups, Personal Chats ...)</kbd>
 ```python
-@ultroid_cmd(pattern="qiw")
+@ultroid_cmd(pattern="Qiw")
 async def hello_world_example(event):
     # As telethon is an asyncio based lib, you will have to use `async`/`await` Syntax.
     await event.reply("naonsia!? GELUD? **World**.")
